@@ -18,18 +18,17 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *BUTTERFLY* *MEDIA* *"* *Group..🦋*
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+*📍* *I* *Won't* *Reply* *to* *Personal* 
+*📌* *You* *can* *contact* *me*
+      *Through* *:* *@Entha_Karyam*
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+*@butterflymedia*
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+  *Thank* *You* *🎀*
 
-For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+*Using* *standard* [Marie](http://telegram.dog/BanhammerMarie_bot) *is* *always* *gonna* *be* *easier.*
 
 """
 
