@@ -18,13 +18,13 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *BUTTERFLY* *MEDIA* *"* *Group..🦋*
+*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *CINEMAVILLA* *"* *Group..🦋*
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Through* *:* *@Entha_Karyam*
+      *Through* *:* *@Amal_PM*
 
-*@butterflymedia*
+*@cenimavilla1999*
 
   *Thank* *You* *🎀*
 
